@@ -2,9 +2,9 @@ Documents from my PhD at Warwick supervised by Dr Ben Graham and Dr Anastasia Pa
 
 # Log signature calculations
 
-We have a python package, called **iisignature**, available on PyPI, which implements signature and log signature calculations reasonably efficiently. User documentation is in [iisignature.pdf]. The source code is [here](http://github.com/bottler/iisignature). The package is explained in [this paper on arxiv](https://arxiv.org/abs/1802.08252). Some simple ideas used in the implementation of the signature parts are explained in [iisignature_tricks.pdf](iisignature_tricks.pdf).
+We have a python package, called **iisignature**, available on PyPI, which implements signature and log signature calculations reasonably efficiently. User documentation is in [iisignature.pdf](iisignature.pdf). The source code is in the [iisignature repository](http://github.com/bottler/iisignature). The package is explained in [this paper on arxiv](https://arxiv.org/abs/1802.08252). Some simple ideas used in the implementation of the signature parts are explained in [iisignature_tricks.pdf](iisignature_tricks.pdf).
 
-*Calculation of Iterated-Integral Signatures and Log Signatures* in [logsignatures.pdf](logsignatures.pdf) explains enough algebra in explicit detail to understand what the Log Signature is. On [arxiv](https://arxiv.org/abs/1712.02757). original code in [logsignature.zip](logsignature.zip). demonstration at https://github.com/bottler/LogSignatureDemo. 
+*Calculation of Iterated-Integral Signatures and Log Signatures* in [logsignatures.pdf](logsignatures.pdf) explains enough algebra in explicit detail to understand what the Log Signature is. On [arxiv](https://arxiv.org/abs/1712.02757). original code in [logsignature.zip](logsignature.zip). There is a demonstration in the [LogSignatureDemo repository](https://github.com/bottler/LogSignatureDemo). 
 
 # Presentation slides
 
