@@ -12,7 +12,11 @@ We have a python package, called **iisignature**, available on PyPI, which imple
 
 [Turing short talk](2017_turingshorttalk_reizenstein.pdf) February 2017
 
-[CRISM presentation on computation of signatures](2016_crism_sep_computation_of_signatures.pdf) September 2016 
+[CRISM presentation on computation of signatures](2016_crism_sep_computation_of_signatures.pdf) September 2016
+
+# Miscellaneous
+
+I give a laborious demonstration of some of the calculations you might seek to make work if you wanted to use the signature to solve differential equations in [example_calcs.pdf](example_calcs.pdf). This might be useful if you are trying to learn rough path theory and want to isolate some of the algebra.
 
 # Miniprojects from 2014
 
