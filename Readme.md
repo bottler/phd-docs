@@ -1,5 +1,7 @@
 Documents from my PhD at Warwick supervised by Dr Ben Graham and Dr Anastasia Papavasiliou.
 
+Thesis submission is in [thesis.pdf](thesis.pdf).
+
 # Log signature calculations
 
 We have a python package, called **iisignature**, available on PyPI, which implements signature and log signature calculations reasonably efficiently. User documentation is in [iisignature.pdf](iisignature.pdf). The source code is in the [iisignature repository](http://github.com/bottler/iisignature). The package is explained in [this paper on arxiv](https://arxiv.org/abs/1802.08252). Some simple ideas used in the implementation of the signature parts are explained in [iisignature_tricks.pdf](iisignature_tricks.pdf).
