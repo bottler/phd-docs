@@ -1,6 +1,6 @@
 Documents from my PhD at Warwick supervised by Dr Ben Graham and Dr Anastasia Papavasiliou.
 
-Thesis submission is in [thesis.pdf](thesis.pdf).
+My thesis is in [thesis.pdf](thesis.pdf).
 
 # Log signature calculations
 
