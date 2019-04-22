@@ -1,6 +1,6 @@
 Documents from my PhD at Warwick supervised by Dr Ben Graham and Dr Anastasia Papavasiliou.
 
-My thesis is in [thesis.pdf](thesis.pdf).
+**My thesis is in [thesis.pdf](thesis.pdf).**
 
 # Log signature calculations
 
@@ -19,6 +19,14 @@ We have a python package, called **iisignature**, available on PyPI, which imple
 # Miscellaneous
 
 I give a laborious demonstration of some of the calculations you might seek to make work if you wanted to use the signature to solve differential equations in [example_calcs.pdf](example_calcs.pdf). This might be useful if you are trying to learn rough path theory and want to isolate some of the algebra.
+
+# Code
+
+Some repositories to look for code related to this stuff.
+
+* [iisignature](http://github.com/bottler/iisignature)
+* [free-lie-algebra-py](http://github.com/bottler/free-lie-algebra-py)
+* [phd-code](http://github.com/bottler/phd-code).
 
 # Miniprojects from 2014
 
